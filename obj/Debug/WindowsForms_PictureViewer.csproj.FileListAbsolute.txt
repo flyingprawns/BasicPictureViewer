@@ -1,0 +1,10 @@
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\bin\Debug\WindowsForms_PictureViewer.exe.config
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\bin\Debug\WindowsForms_PictureViewer.exe
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\bin\Debug\WindowsForms_PictureViewer.pdb
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.Properties.Resources.resources
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.csproj.GenerateResource.cache
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.exe
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.pdb
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.Form_PictureViewer.resources
+C:\Users\Jack\Documents\Development\C#\Examples\WindowsForms_PictureViewer\WindowsForms_PictureViewer\obj\Debug\WindowsForms_PictureViewer.csproj.AssemblyReference.cache
